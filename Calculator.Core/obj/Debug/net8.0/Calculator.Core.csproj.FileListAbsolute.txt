@@ -1,0 +1,12 @@
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\bin\Debug\net8.0\Calculator.Core.deps.json
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\bin\Debug\net8.0\Calculator.Core.dll
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\bin\Debug\net8.0\Calculator.Core.pdb
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.csproj.AssemblyReference.cache
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.AssemblyInfo.cs
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.dll
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\refint\Calculator.Core.dll
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\Calculator.Core.pdb
+C:\Users\USER\desktop\‏‏תיקיה חדשה\Calculator.Core\obj\Debug\net8.0\ref\Calculator.Core.dll

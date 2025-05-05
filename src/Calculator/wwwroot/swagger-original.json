@@ -1,0 +1,150 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Calculator API",
+    "description" : "REST API for performing arithmetic operations using JWT",
+    "version" : "1.0.0"
+  },
+  "servers" : [ {
+    "url" : "http://localhost:5000"
+  } ],
+  "paths" : {
+    "/calculator" : {
+      "post" : {
+        "tags" : [ "Calculator" ],
+        "summary" : "Performs a calculation on two numbers",
+        "operationId" : "Calculate",
+        "parameters" : [ {
+          "name" : "Operation",
+          "in" : "header",
+          "description" : "The arithmetic operation to perform",
+          "required" : true,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "string",
+            "enum" : [ "+", "-", "*", "/" ]
+          }
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/CalculationRequest"
+              },
+              "example" : {
+                "firstNumber" : 1,
+                "secondNumber" : 2
+              }
+            }
+          },
+          "required" : true
+        },
+        "responses" : {
+          "200" : {
+            "description" : "Calculation result",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/CalculationResponse"
+                },
+                "example" : {
+                  "result" : 3
+                }
+              }
+            }
+          },
+          "400" : {
+            "description" : "Bad Request"
+          },
+          "401" : {
+            "description" : "Unauthorized"
+          },
+          "500" : {
+            "description" : "Internal Server Error"
+          }
+        },
+        "security" : [ {
+          "bearerAuth" : [ ]
+        } ]
+      }
+    },
+    "/auth/token" : {
+      "post" : {
+        "tags" : [ "Authentication" ],
+        "summary" : "Generates a JWT token",
+        "operationId" : "GetToken",
+        "responses" : {
+          "200" : {
+            "description" : "JWT token created",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/inline_response_200"
+                },
+                "example" : {
+                  "token" : "reddTESaaI1NiIsInR5cCI6IkpXVCJ9..."
+                }
+              }
+            }
+          },
+          "500" : {
+            "description" : "Server error"
+          }
+        }
+      }
+    }
+  },
+  "components" : {
+    "schemas" : {
+      "CalculationRequest" : {
+        "required" : [ "firstNumber", "secondNumber" ],
+        "type" : "object",
+        "properties" : {
+          "firstNumber" : {
+            "type" : "number",
+            "description" : "The first number to use in the calculation",
+            "format" : "double"
+          },
+          "secondNumber" : {
+            "type" : "number",
+            "description" : "The second number to use in the calculation",
+            "format" : "double"
+          }
+        }
+      },
+      "CalculationResponse" : {
+        "type" : "object",
+        "properties" : {
+          "result" : {
+            "type" : "number",
+            "description" : "The result of the arithmetic operation",
+            "format" : "double"
+          }
+        },
+        "example" : {
+          "result" : 0.8008281904610115
+        }
+      },
+      "inline_response_200" : {
+        "type" : "object",
+        "properties" : {
+          "token" : {
+            "type" : "string",
+            "description" : "JWT token string"
+          }
+        },
+        "example" : {
+          "token" : "token"
+        }
+      }
+    },
+    "securitySchemes" : {
+      "bearerAuth" : {
+        "type" : "http",
+        "scheme" : "bearer",
+        "bearerFormat" : "JWT"
+      }
+    }
+  }
+}

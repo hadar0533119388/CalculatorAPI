@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\controllers\\authenticationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\controllers\\authenticationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2EE933-B567-4CAA-BB40-AF011215D4EF}|Calculator.Core\\Calculator.Core.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\calculator.core\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2EE933-B567-4CAA-BB40-AF011215D4EF}|Calculator.Core\\Calculator.Core.csproj|solutionrelative:calculator.core\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\utils\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\utils\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\tests\\calculatorapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\tests\\calculatorapicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2EE933-B567-4CAA-BB40-AF011215D4EF}|Calculator.Core\\Calculator.Core.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\calculator.core\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2EE933-B567-4CAA-BB40-AF011215D4EF}|Calculator.Core\\Calculator.Core.csproj|solutionrelative:calculator.core\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\controllers\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\controllers\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|c:\\users\\user\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{351F5334-0DA0-49C6-9676-AFBA120B9290}|src\\Calculator\\Calculator.csproj|solutionrelative:src\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\docker-compose.yml",
+              "RelativeDocumentMoniker": "src\\Calculator\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\docker-compose.yml",
+              "RelativeToolTip": "src\\Calculator\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-05T13:03:45.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Calculator\\Dockerfile",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Dockerfile",
+              "RelativeToolTip": "src\\Calculator\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T12:58:15.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Utils\\Global.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Utils\\Global.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Utils\\Global.cs",
+              "RelativeToolTip": "src\\Calculator\\Utils\\Global.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:22:01.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Calculator.Core\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Core\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Calculator.Core\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "Calculator.Core\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:53:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorApiControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Tests\\CalculatorApiControllerTests.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Tests\\CalculatorApiControllerTests.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Tests\\CalculatorApiControllerTests.cs",
+              "RelativeToolTip": "src\\Calculator\\Tests\\CalculatorApiControllerTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:30:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Tests\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Tests\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Tests\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "src\\Calculator\\Tests\\CalculatorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:36:54.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationApi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Controllers\\AuthenticationApi.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Controllers\\AuthenticationApi.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Controllers\\AuthenticationApi.cs",
+              "RelativeToolTip": "src\\Calculator\\Controllers\\AuthenticationApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:11:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Calculator.Core\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Core\\Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Calculator.Core\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "Calculator.Core\\Services\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:54:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Program.cs",
+              "RelativeToolTip": "src\\Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:50:01.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Calculator\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\appsettings.json",
+              "RelativeToolTip": "src\\Calculator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T11:46:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\Calculator\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:14:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculatorApi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Controllers\\CalculatorApi.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Controllers\\CalculatorApi.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Controllers\\CalculatorApi.cs",
+              "RelativeToolTip": "src\\Calculator\\Controllers\\CalculatorApi.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:28:24.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "src\\Calculator\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "src\\Calculator\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:18:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calculator",
+              "DocumentMoniker": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "src\\Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Users\\USER\\desktop\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\src\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "src\\Calculator\\Calculator.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T10:41:41.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
